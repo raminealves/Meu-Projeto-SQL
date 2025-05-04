@@ -23,6 +23,4 @@ Query SQL
 1
 INSERT INTO produtos (id, nome, descricao, preco, quantidade_estoque, categoria, data_cadastro)
 2
-VALUES (1, 'Colar de Pérola', 'Colar artesanal com pérolas', 29.90, 10, 'Acessórios', '2025-05-04');
-3
-​
+VALUES (1, 'Corrente', 'Colar', 29.90, 10, 'Acessórios', '2025-05-04');​
